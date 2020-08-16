@@ -1,4 +1,4 @@
-# Excel_Output
+# Excel Output
 Output of an internal table in Microsoft Excel.
 
 Just declare use the following code snippet 
